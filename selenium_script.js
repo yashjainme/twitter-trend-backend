@@ -18,7 +18,7 @@ const PROXY_HOST = process.env.PROXY_HOST;
 const PROXY_PORT = process.env.PROXY_PORT;
 
 const CHROME_PROFILE_PATH = 'C:\\Users\\YASH JAIN\\AppData\\Local\\Google\\Chrome\\User Data';
-const PROFILE_NAME = 'default';
+const PROFILE_NAME = 'Profile 6';
 
 // Utility function to wait for elements more efficiently
 async function waitForElement(driver, selector, timeout = 10000) {
